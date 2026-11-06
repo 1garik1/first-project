@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
+    padding: 0;
+    margin: 0;
+}
+content-section {
+    box-sizing: border-box;
+}
+content-section_theme_dark {
+    background-color: #000;
+}
+content-section_theme_bright {
+    background-color: #FEE42A;
+}
